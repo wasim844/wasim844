@@ -1,6 +1,6 @@
 # 💫 About Me:
 > whoami
-Security Consultant |Code Review |Red Teamer| Web & Mobile Pentester | Offensive Security Practitioner
+> Security Consultant |Code Review |Red Teamer| Web & Mobile Pentester | Offensive Security Practitioner
 
 🔭 I’m currently working on  <br>Delivering advanced penetration testing, infrastructure testing, vulnerability assessments, and red team engagements across web, mobile, API, and cloud environments. I help organizations reduce attack surfaces, strengthen defenses, and adopt secure coding practices aligned with OWASP and industry standards.  <br><br>👯 I’m looking to collaborate on  <br>Web & API security research, bug bounty programs, infrastructure and cloud misconfiguration exploitation, and open-source security tooling.  <br><br>🤝 I’m looking for help with  <br>Scaling security automation, advanced adversary simulation, and large-scale vulnerability correlation across enterprise environments.  <br><br>🌱 I’m currently learning  <br>Cutting-edge techniques in cloud security (AWS/Azure), Kubernetes exploitation, and modern approaches to securing AI/LLM-powered systems.  <br><br>💬 Ask me about  <br>Web application penetration testing, API security, infrastructure testing, bug bounty operations, CVE research, red teaming, and building enterprise security programs from scratch.  <br><br>⚡ Fun fact  <br>I’ve been acknowledged by Microsoft, Apple, Google, and other tech giants for responsibly disclosing vulnerabilities. 
 
