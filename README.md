@@ -1,13 +1,14 @@
 # 💫 About Me:
-> Security Consultant |Code Review |Red Teamer| Web & Mobile Pentester | Offensive Security Practitioner
+> Security Engineer | Application & Cloud Security | Offensive Security Practitioner
 
 🔭 I’m currently working on  <br>Delivering advanced penetration testing, infrastructure testing, vulnerability assessments, and red team engagements across web, mobile, API, and cloud environments. I help organizations reduce attack surfaces, strengthen defenses, and adopt secure coding practices aligned with OWASP and industry standards.  <br><br>👯 I’m looking to collaborate on  <br>Web & API security research, bug bounty programs, infrastructure and cloud misconfiguration exploitation, and open-source security tooling.  <br><br>🤝 I’m looking for help with  <br>Scaling security automation, advanced adversary simulation, and large-scale vulnerability correlation across enterprise environments.  <br><br>🌱 I’m currently learning  <br>Cutting-edge techniques in cloud security (AWS/Azure), Kubernetes exploitation, and modern approaches to securing AI/LLM-powered systems.  <br><br>💬 Ask me about  <br>Web application penetration testing, API security, infrastructure testing, bug bounty operations, CVE research, red teaming, and building enterprise security programs from scratch.  <br><br>⚡ Fun fact  <br>I’ve been acknowledged by Microsoft, Apple, Google, and other tech giants for responsibly disclosing vulnerabilities.
 
-## 🎓 Certifications:
-https://img.shields.io/badge/OSCP-%23E34F26.svg?style=for-the-badge&logo=offensive-security&logoColor=white
-https://img.shields.io/badge/CREST CRT-%23000000.svg?style=for-the-badge&logo=crest&logoColor=white
-https://img.shields.io/badge/CREST CPSA-%23000000.svg?style=for-the-badge&logo=crest&logoColor=white
-https://img.shields.io/badge/CEH v11-%23000000.svg?style=for-the-badge&logo=ec-council&logoColor=white
+## 🎓 Certifications
+
+![OSCP](https://img.shields.io/badge/OSCP-%23E34F26.svg?style=for-the-badge&logo=offensive-security&logoColor=white)  
+![CREST CRT](https://img.shields.io/badge/CREST%20CRT-%23000000.svg?style=for-the-badge&logo=crest&logoColor=white)  
+![CREST CPSA](https://img.shields.io/badge/CREST%20CPSA-%23000000.svg?style=for-the-badge&logo=crest&logoColor=white)  
+![CEH v11](https://img.shields.io/badge/CEH%20v11-%23000000.svg?style=for-the-badge&logo=ec-council&logoColor=white)
 
 
 ## 🌐 Socials:
